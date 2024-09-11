@@ -1,1 +1,3 @@
 # DSA
+
+Exploring Data Structures and Algorithms with code examples and notes to help beginners understand concepts easily. Dont worry even I am a fresher; being a fresher I can understand how hard it is to understand Data Structures and Algorithims. Lets try...
